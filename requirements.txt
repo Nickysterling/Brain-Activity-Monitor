@@ -1,0 +1,12 @@
+PyQt5
+pylsl
+mne
+numpy
+matplotlib
+seaborn
+muselsl
+joblib
+pandas
+scipy
+scikit-learn
+requests
