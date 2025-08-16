@@ -2,6 +2,8 @@
 // into instructions to move the rc car. It broadcasts
 // its own wifi network. Each input will run the car for 500ms.
 
+/* 
+
 #include <SPI.h>
 #include <WiFiNINA.h>
 
@@ -258,4 +260,6 @@ void loop() {
       break;
   }
   
-}
+} 
+
+*/

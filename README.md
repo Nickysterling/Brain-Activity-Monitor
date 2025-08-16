@@ -6,3 +6,23 @@
 
 ## 3. Project Structure
 
+```
+├── archive/
+├── buffer/
+├── data/
+│ ├── raw/
+│ ├── processed/
+│ ├── annotations/
+│ ├── plots/
+│ └── temp/
+├── documentation/
+├── src/
+│ ├── arduino/
+│ ├── classifier/
+│ ├── data_preprocessing/
+│ ├── UI/
+│ └── main.py/
+├── .gitignore
+├── README.md
+└── requirements.txt
+```
