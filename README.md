@@ -8,6 +8,8 @@ The Brain Activity Monitor demonstrates how consumer-grade EEG hardware can be c
 
 ## 2. System Architecture
 
+![System Architecture](https://github.com/Nickysterling/Brain-Activity-Monitor/blob/main/documentation/img/README/system_architecture.png?raw=true "System Architecture")
+
 The project was built around four main subsystems:
 
 **1. Data Collection**
@@ -33,8 +35,6 @@ The project was built around four main subsystems:
 * Arduino Uno WiFi Rev2 with motor shield.
 * Receives WiFi commands and drives DC motors of the RC car.
 * Average command acknowledgment latency: **~49.5 ms**.
-
-![System Architecture](https://github.com/Nickysterling/Brain-Activity-Monitor/blob/main/documentation/img/README/system_architecture.png?raw=true "System Architecture")
 
 ## 3. Project Structure
 
