@@ -21,7 +21,7 @@
 │ ├── classifier/
 │ ├── data_preprocessing/
 │ ├── UI/
-│ └── main.py/
+│ └── main.py
 ├── .gitignore
 ├── README.md
 └── requirements.txt
